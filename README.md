@@ -48,6 +48,9 @@ excellent light-weight Agent framework yet feature-rich, easy to use, and free.
 ### [Data-Coplit](https://github.com/digital-duck/data-copilot)
 a text-to-SQL use-case with RAG, built on [Vanna.ai](https://github.com/vanna-ai/vanna) 
 
+- [Demo video](https://www.youtube.com/watch?v=Xwf8UI5gM5k) 
+
+
 ## [Ollama](https://ollama.com/)
 A local LLM framework, easy to use, and free.    
 
@@ -62,6 +65,13 @@ excellent learning materials offered by Microsoft
 Training materials on cutting edge technologies, e.g. 
 
 - [AutoGen](https://www.deeplearning.ai/short-courses/ai-agentic-design-patterns-with-autogen/)
+
+
+## Open Research 
+
+- [Advances and Challenges in Foundation Agents](https://arxiv.org/abs/2504.01990)
+    - [Awesome Agent](https://github.com/FoundationAgents/awesome-foundation-agents)
+    - [wechat-blog in Chinese](https://mp.weixin.qq.com/s?__biz=MzA4MjQwNTE4Mg==&mid=2452117717&idx=1&sn=d75ca9bc01150e9c389ee892f2203498&chksm=89e036807a9d9e3ac5e4090fc5208f70e4b7e66a75bdf2a36b3a3b5688d9a1160e27994434ba&mpshare=1&srcid=040806T9hP3oPFrFx3toE2eH&sharer_shareinfo=833e37ad299d6942d570dded13524a7e&sharer_shareinfo_first=6379e46627a96adf89364c52292f7787&from=singlemessage&scene=1&subscene=10000&clicktime=1744110640&enterid=1744110640&sessionid=0&ascene=1&fasttmpl_type=0&fasttmpl_fullversion=7679897-en_US-zip&fasttmpl_flag=0&realreporttime=1744110640666&devicetype=android-34&version=28003940&nettype=WIFI&lang=en&countrycode=US&exportkey=n_ChQIAhIQqaeW0XME8F8LqdvNPcyjNxLyAQIE97dBBAEAAAAAAJY3LQwRxwMAAAAOpnltbLcz9gKNyK89dVj0NDKxbeAkROdc7zhF3ohuAF6CbWPSKzMuCT1jThSbSO%2F3PJzwb3SLEP0Hsd0uGp1xIgPTUEM0u0eezZvBztrwXsoh6AzSk%2B7X0jKiCEwII6lU6d%2FCs80I%2BokX7cFsVxUDZ9rvlXjyRptOwCK4PruqKgMcaQ1OKYskgOfTku2gPwjSTQ9QONxelz5wpb9fOaPaOEavX2HeRiCQv5z2F45IL9%2BDqURhbm2kJojQbw9ZVbojNFHQUzwiH%2BATfEUvsgyitWt4O5d5VZPUnbmh&pass_ticket=gkQDf77S4nmhTXFbvKlT90toG15Zg%2BQqcXRLekL%2BSySH90qhifPeN%2BhtbXVe2POc&wx_header=3)
 
 
 ##  Other Resources
