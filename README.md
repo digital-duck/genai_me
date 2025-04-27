@@ -60,6 +60,8 @@ Run many open-source LLM models locally and privately
 
 1) https://github.com/microsoft/generative-ai-for-beginners
 excellent learning materials offered by Microsoft
+- [generative-ai-for-beginners](https://microsoft.github.io/generative-ai-for-beginners/#/)
+- [Generative AI Code Samples](https://learn.microsoft.com/en-us/collections/075ysqe443dd4p?WT.mc_id=academic-105485-koreyst)
 
 4) deeplearning.ai by Andrew Ng
 Training materials on cutting edge technologies, e.g. 
