@@ -43,12 +43,39 @@ excellent light-weight Agent framework yet feature-rich, easy to use, and free.
 - [User-Guide](https://docs.agno.com/introduction)
 - [How to Build AI Agents from Scratch](https://www.youtube.com/watch?v=nLkBNnnA8Ac&t=91s) - a short video by its CEO
 
+### Smolagents by Hugging Face
+
+https://learn.deeplearning.ai/courses/building-code-agents-with-hugging-face-smolagents/lesson/txu26/introduction
+
+
 ##  RAG 
 
 ### [Data-Coplit](https://github.com/digital-duck/data-copilot)
 a text-to-SQL use-case with RAG, built on [Vanna.ai](https://github.com/vanna-ai/vanna) 
 
 - [Demo video](https://www.youtube.com/watch?v=Xwf8UI5gM5k) 
+
+
+## AI Tools
+
+### Google AI Studio
+a user-friendly interface for accessing and testing the capabilities of the Gemini API.
+
+- https://aistudio.google.com/
+- https://ai.google.dev/aistudio
+
+Gemini Answer: https://gemini.google.com/app/26842876f70535bb
+
+### Tutorialize Codebase Knowledge
+
+- [source](https://github.com/The-Pocket/Tutorial-Codebase-Knowledge)
+    - [fork](https://github.com/wgong/Tutorial-Codebase-Knowledge)
+    - ~/projects/wgong/Tutorial-Codebase-Knowledge
+- [video](https://www.youtube.com/watch?v=XVR9OgOtnZo)
+- [doc](https://the-pocket.github.io/Tutorial-Codebase-Knowledge/)
+
+#### Agno Tutorial
+
 
 
 ## [Ollama](https://ollama.com/)
@@ -81,3 +108,9 @@ Training materials on cutting edge technologies, e.g.
 - [Intro to GenAI](https://www.slideshare.net/slideshow/introduction-to-genai-past-present-future/273565748)
 
 
+## My Tools
+
+### Simplifiy Git across multiple machines
+
+- /home/papagame/projects/wgong/py4kids/lesson-99-misc/utils/git/00_run_git_sync.sh
+    - Add git repo to config file: git_sync_config.yaml
