@@ -15,6 +15,8 @@ first mover, good overall, most expensive
 ###  [Gemini by Google](https://gemini.google.com/app)
 late comer and getting better everyday
 
+- list of Gemini models: https://ai.google.dev/gemini-api/docs/models
+
 ###  [Claude by Anthropic](https://claude.ai/)
 good overall, particularly for coding, its project-scoped feature
 
