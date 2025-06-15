@@ -116,3 +116,8 @@ Training materials on cutting edge technologies, e.g.
 
 - /home/papagame/projects/wgong/py4kids/lesson-99-misc/utils/git/00_run_git_sync.sh
     - Add git repo to config file: git_sync_config.yaml
+
+
+## Misc
+
+- https://github.com/wgong/py4kids/blob/master/lesson-20-edu/resources/genai/readme.md
