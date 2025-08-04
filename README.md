@@ -26,6 +26,11 @@ new comer, good overall with chat, image, coding, free
 ###  [DeepSeek](https://www.deepseek.com/)
 good on reasoning
 
+### [Kimi](https://www.kimi.com/)
+
+### [GLM](https://chat.z.ai/)
+very good for coding, tool-use, thinking, reasoning
+
 ###  [Mistral](https://mistral.ai/)
 
 ###  [Grok by X](https://grok.com/)
@@ -97,6 +102,11 @@ Training materials on cutting edge technologies, e.g.
 
 - [AutoGen](https://www.deeplearning.ai/short-courses/ai-agentic-design-patterns-with-autogen/)
 
+
+## Slides
+
+1) [AI-Slides](https://github.com/digital-duck/ai_slide_deck)
+GLM 4.5 has nice AI-Slides feature to create quality slide-deck on any topic/subject
 
 ## Open Research 
 
