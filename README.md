@@ -97,11 +97,14 @@ learning materials offered by Microsoft
 - [GitHub Source](https://microsoft.github.io/generative-ai-for-beginners/#/)
 - [Generative AI Sample Apps](https://learn.microsoft.com/en-us/collections/075ysqe443dd4p?WT.mc_id=academic-105485-koreyst)
 
-4) [Deeplearning.AI](https://www.deeplearning.ai/) by Andrew Ng
+2) [Deeplearning.AI](https://www.deeplearning.ai/) by Andrew Ng
 Training materials on cutting edge technologies, e.g. 
 
 - [AutoGen](https://www.deeplearning.ai/short-courses/ai-agentic-design-patterns-with-autogen/)
 
+3) [GenAI Boot Camp](https://genai.cloudprojectbootcamp.com/)
+- register on 2025-08-18
+- Video : https://www.youtube.com/watch?v=DOXJ7s1D6iE
 
 ## Slides
 
